@@ -1,0 +1,26 @@
+[
+   {
+      "player": "Zach Wilson",
+      "pos": "QB",
+      "team": "NYJ",
+      "points": 284,
+      "sd_pts": "41.5",
+      "dropoff": "1.8",
+      "floor": "226",
+      "ceiling": "341",
+      "points_vor": -55.4,
+      "floor_vor": "-84.7",
+      "ceiling_vor": "-27.1",
+      "rank": 263,
+      "floor_rank": "388",
+      "ceiling_rank": "204",
+      "pos_rank": 25,
+      "tier": "9",
+      "ecr": "199",
+      "sd_ecr": "45.1",
+      "risk": "6.02",
+      "injury_status": "NA",
+      "resource_name": "zach-wilson",
+      "orig_img_src": "https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4361259.png"
+  }
+]
